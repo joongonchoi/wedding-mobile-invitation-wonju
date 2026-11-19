@@ -16,9 +16,9 @@ export const Bus = () => {
         <div className="addr">
           대절버스 탑승 안내
           {/* 💡 아래 탑승 장소 상세 주소를 수정하세요 💡 */}
-          <div className="detail">전북 전주시 덕진구 기린대로 1055
+          <div className="detail">강원 원주시 혁신로 60
           <br />
-          (전주월드컵경기장 P10 주차장)
+          (건강보험심사평가원 1사옥 버스 주차장)
           </div>
         </div>
         <Map />
@@ -30,19 +30,19 @@ export const Bus = () => {
           <div className="transportation-icon-wrapper">
             <BusIcon className="transportation-icon" />
           </div>
-          <div className="heading"> 💡대절버스 (전주 ↔ 평택)💡 </div>
+          <div className="heading"> 💡대절버스 (원주 ↔ 평택)💡 </div>
           <div />
           <div className="content">
-            <b>전주 → 평택</b> |
+            <b>원주 → 평택</b> |
             <br />
             <span style={{ fontSize: "0.8rem" }}>
               <strong>출발 시간</strong>: 2027년 1월 23일(토) 오후 1시
               <br />
-              <strong>탑승 장소</strong>: 전주월드컵경기장 P10 주차장
+              <strong>탑승 장소</strong>: 건강보험심사평가원 1사옥 버스 주차장
               <br />
             </span>
             <br />
-            <b>평택 → 전주</b> |
+            <b>평택 → 원주</b> |
             <br />
             <span style={{ fontSize: "0.8rem" }}>
               <strong>출발 시간</strong>: 2027년 1월 23일(토) 오후 6시 30분
