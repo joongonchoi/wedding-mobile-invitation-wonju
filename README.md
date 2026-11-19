@@ -1,1 +1,1 @@
-# wedding-mobile-invitation-jeonju
+# wedding-mobile-invitation-wonju

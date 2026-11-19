@@ -1,11 +1,12 @@
 {
-  "name": "wedding-mobile-invitation-jeonju",
+  "name": "wedding-mobile-invitation-wonju",
   "version": "0.1.0",
   "description": "A wedding invitation web page template",
   "author": "Joongon Choi <supermanjo12@gmail.com> (https://joongonchoi.github.io/)",
   "license": "MIT",
   "private": true,
-  "homepage": "https://joongoneunjin.site",
+  // "homepage": "https://joongoneunjin.site",
+  "homepage": "https://joongonchoi.github.io/wedding-mobile-invitation-wonju/",
   "type": "module",
   "scripts": {
     "dev": "vite",
