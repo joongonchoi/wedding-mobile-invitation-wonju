@@ -5,7 +5,7 @@
   "author": "Joongon Choi <supermanjo12@gmail.com> (https://joongonchoi.github.io/)",
   "license": "MIT",
   "private": true,
-  "homepage": "https://joongonchoi.github.io/wedding-mobile-invitation-wonju/",
+  "homepage": "wonju-bus.site/",
   "type": "module",
   "scripts": {
     "dev": "vite",
