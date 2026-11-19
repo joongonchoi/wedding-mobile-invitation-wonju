@@ -21,7 +21,7 @@ export const ShareButton = () => {
 
           // 카카오톡 공유 전송 (사용자 정의 템플릿 사용)
           kakao.Share.sendCustom({
-            templateId: 138325, // 👈 123456을 지우고 복사하신 숫자 템플릿 ID를 넣으세요 (따옴표 없이 숫자만!)
+            templateId: 139130, // 👈 123456을 지우고 복사하신 숫자 템플릿 ID를 넣으세요 (따옴표 없이 숫자만!)
           })
         }}
       >
