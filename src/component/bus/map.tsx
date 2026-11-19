@@ -10,10 +10,10 @@ import { NAVER_MAP_CLIENT_ID } from "../../env"
 // ==========================================
 // 💡 대절버스 탑승 장소 좌표 및 ID (수정 필수) 💡
 // ==========================================
-const BUS_LOCATION_NAME = "전주월드컵경기장" 
-const BUS_POSITION = [127.064436, 35.868228] // [경도(lng), 위도(lat)]
-const BUS_NMAP_PLACE_ID = "1189713430" // 네이버 지도 장소 ID (URL 끝 숫자)
-const BUS_KMAP_PLACE_ID = "18119347" // 카카오맵 장소 ID (URL 끝 숫자)
+const BUS_LOCATION_NAME = "건강보험심사평가원" 
+const BUS_POSITION = [127.981877, 37.322232] // [경도(lng), 위도(lat)]
+const BUS_NMAP_PLACE_ID = "1170942582" // 네이버 지도 장소 ID (URL 끝 숫자)
+const BUS_KMAP_PLACE_ID = "13016775" // 카카오맵 장소 ID (URL 끝 숫자)
 // ==========================================
 
 /**
